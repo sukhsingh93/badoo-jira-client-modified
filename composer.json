@@ -24,8 +24,8 @@
         "php": ">=7.2",
         "ext-json": "*",
         "ext-curl": "*",
-        "psr/log": "^1.0",
-        "symfony/yaml": "^4.2|^5.0",
+        "psr/log": ">1.0",
+        "symfony/yaml": ">4.2",
         "league/climate": "^3.5"
     },
     "require-dev": {
