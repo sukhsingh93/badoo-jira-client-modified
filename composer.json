@@ -1,5 +1,5 @@
 {
-    "name": "admhome/badoo-jira-client",
+    "name": "admhome/badoo-jira-client-modified",
     "description": "Badoo JIRA API Client with code generator / fixed for new psr/log and new symfony/yaml",
 
     "type": "library",
