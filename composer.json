@@ -1,4 +1,7 @@
 {
+    "name": "admhome/badoo-jira-client",
+    "description": "Badoo JIRA API Client with code generator / fixed for new psr/log and new symfony/yaml",
+
     "name": "badoo/jira-client",
     "type": "library",
     "description": "Jira REST API client with comfortable wrappers for most commonly used API instances like issues, custom fields, components and so on",
