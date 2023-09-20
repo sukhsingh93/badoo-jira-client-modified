@@ -31,7 +31,7 @@ right in PHP code.
 
 # Quick start
 
-## Install
+## Installcomposer require badoo/jira-client
 
 ```bash
 composer require badoo/jira-client
